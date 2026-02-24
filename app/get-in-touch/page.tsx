@@ -78,6 +78,8 @@ export default function GetInTouchPage() {
                 alt="Contact us"
                 fill
                 className="object-cover"
+                loading="eager"
+                priority
               />
             </div>
 
