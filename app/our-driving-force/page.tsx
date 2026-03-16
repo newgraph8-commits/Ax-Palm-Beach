@@ -3,9 +3,9 @@ import { Header } from "@/components/layout/header"
 import { Footer } from "@/components/layout/footer"
 
 export const metadata = {
-  title: "Our Driving Force - Ax Boston",
+  title: "Our Driving Force - Ax Palm Beach",
   description:
-    "Ax Boston's proprietary A-Frame Intelligence Engine delivers breakthrough outcomes for executive search",
+    "Ax Palm Beach's proprietary A-Frame Intelligence Engine delivers breakthrough outcomes for executive search",
 }
 
 export default function OurDrivingForcePage() {
@@ -18,10 +18,10 @@ export default function OurDrivingForcePage() {
             <h1 className="text-3xl md:text-4xl lg:text-5xl font-bold text-primary mb-12">Our Driving Force</h1>
             <div className="space-y-6 text-lg text-muted-foreground mb-12">
               <p className="leading-relaxed">
-                Executives who prioritize precision and strategic clarity increasingly turn to Ax Boston, confident that
+                Executives who prioritize precision and strategic clarity increasingly turn to Ax Palm Beach, confident that
                 their career trajectory is supported by a firm equipped with exceptional analytical and advisory
                 capability. Our ability to transform talent acquisition into a disciplined, strategic function has
-                positioned Ax Boston as the definitive partner for this critical stage of organizational and
+                positioned Ax Palm Beach as the definitive partner for this critical stage of organizational and
                 professional advancement. The conclusion is simple: you shouldn't look elsewhere, you wouldn't consider
                 it—and ultimately, you won't.
               </p>
@@ -30,7 +30,7 @@ export default function OurDrivingForcePage() {
             <div className="grid grid-cols-1 lg:grid-cols-[1fr_300px] gap-8 items-start">
               <div className="space-y-6 text-lg text-muted-foreground">
                 <p className="leading-relaxed">
-                  At the center of this advantage is Ax Boston's proprietary A-Frame Intelligence Engine, a
+                  At the center of this advantage is Ax Palm Beach's proprietary A-Frame Intelligence Engine, a
                   next-generation platform containing extensive cross-industry data and advanced analytical models.
                   Designed to outperform the slower, outdated processes still used by traditional firms, the system
                   accelerates decision cycles, compresses search timelines, and consistently produces breakthrough

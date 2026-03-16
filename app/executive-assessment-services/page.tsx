@@ -35,7 +35,7 @@ export default function ExecutiveAssessmentServicesPage() {
 
             <p className="text-lg text-muted-foreground leading-relaxed mb-12">
               By integrating strategic advisory insight, customized evaluations of executive talent, and deep recruiting
-              expertise, Ax Boston has developed a comprehensive and highly effective framework for assessing potential
+              expertise, Ax Palm Beach has developed a comprehensive and highly effective framework for assessing potential
               board candidates.
             </p>
 
@@ -107,7 +107,7 @@ export default function ExecutiveAssessmentServicesPage() {
                   </ul>
 
                   <p className="text-lg text-muted-foreground leading-relaxed">
-                    The effectiveness of these crucial executive and board decisions is reinforced by Ax Boston's
+                    The effectiveness of these crucial executive and board decisions is reinforced by Ax Palm Beach's
                     advanced infrastructure and industry-leading expertise.
                   </p>
                 </div>

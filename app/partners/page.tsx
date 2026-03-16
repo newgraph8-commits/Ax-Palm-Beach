@@ -3,7 +3,7 @@ import { Footer } from "@/components/layout/footer"
 import Image from "next/image"
 
 export const metadata = {
-  title: "Partners - Ax Boston",
+  title: "Partners - Ax Palm Beach",
   description: "Our trusted partners in executive recruitment and talent solutions",
 }
 
@@ -74,11 +74,11 @@ export default function PartnersPage() {
             <div className="max-w-4xl">
               <p className="text-lg text-muted-foreground leading-relaxed mb-6">
                 Case studies featuring real-world examples have demonstrated the effectiveness, speed, adaptability, and
-                overall success of Ax Boston's system.
+                overall success of Ax Palm Beach's system.
               </p>
               <p className="text-lg text-muted-foreground leading-relaxed">
-                To integrate Ax Boston's 12 AC system into your Human Resources framework or to enroll in the Ax Boston
-                system application, please contact an Ax Boston representative at:{" "}
+                To integrate Ax Palm Beach's 12 AC system into your Human Resources framework or to enroll in the Ax Palm Beach
+                system application, please contact an Ax Palm Beach representative at:{" "}
                 <a href="mailto:info@axpacific.net" className="text-primary hover:underline font-semibold">
                   info@axboston.com
                 </a>

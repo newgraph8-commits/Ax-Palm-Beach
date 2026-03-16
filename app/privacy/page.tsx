@@ -3,8 +3,8 @@ import { Footer } from "@/components/layout/footer"
 import type { Metadata } from "next"
 
 export const metadata: Metadata = {
-  title: "Privacy Policy | Ax Boston",
-  description: "Privacy Policy for Ax Boston executive search services.",
+  title: "Privacy Policy | Ax Palm Beach",
+  description: "Privacy Policy for Ax Palm Beach executive search services.",
 }
 
 export default function PrivacyPolicyPage() {
@@ -24,7 +24,7 @@ export default function PrivacyPolicyPage() {
             <div className="prose prose-lg max-w-none space-y-8 text-gray-700 leading-relaxed">
               <section>
                 <p className="text-lg">
-                  Ax Boston ("we," "our," or "us") is committed to protecting your personal information and maintaining
+                  Ax Palm Beach ("we," "our," or "us") is committed to protecting your personal information and maintaining
                   transparency regarding how your data is collected, used, and safeguarded. This Privacy Policy explains
                   how we handle information when you interact with our website, communication systems, and SMS
                   notification services.
@@ -148,7 +148,7 @@ export default function PrivacyPolicyPage() {
               <section className="pt-4">
                 <h2 className="text-2xl font-bold text-primary mb-4">8. Children's Privacy</h2>
                 <p>
-                  Ax Boston does not knowingly collect personal information from individuals under the age of 16. Our
+                  Ax Palm Beach does not knowingly collect personal information from individuals under the age of 16. Our
                   services are intended for adults and professional users.
                 </p>
               </section>
@@ -165,7 +165,7 @@ export default function PrivacyPolicyPage() {
                 <h2 className="text-2xl font-bold text-primary mb-4">10. Contact Information</h2>
                 <p>For privacy inquiries, please contact:</p>
                 <div className="mt-4 space-y-2">
-                  <p className="font-semibold">Ax Boston Privacy Office</p>
+                  <p className="font-semibold">Ax Palm Beach Privacy Office</p>
                   <p>
                     Email:{" "}
                     <a href="mailto:info@axpacific.net" className="text-[#FF2B2B] hover:underline">

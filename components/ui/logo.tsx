@@ -19,7 +19,7 @@ export function Logo({ light = false, className, iconOnly = false, onClick }: Lo
       <div className="relative w-8 h-8 flex-shrink-0">
         <Image
           src="/images/ax-pacific-logo.png"
-          alt="Ax Boston Logo"
+          alt="Ax Palm Beach Logo"
           width={32}
           height={32}
           className="w-full h-full object-contain"
@@ -35,7 +35,7 @@ export function Logo({ light = false, className, iconOnly = false, onClick }: Lo
               light ? "text-white" : "text-primary",
             )}
           >
-            Ax Boston
+            Ax Palm Beach
           </span>
           <div className={cn("h-[1px] w-full my-1", light ? "bg-white/30" : "bg-primary/20")} />
           <span

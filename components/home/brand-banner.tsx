@@ -29,7 +29,7 @@ export function BrandBanner() {
 
         {/* Quote Text */}
         <p className="text-white/90 font-serif text-xl md:text-2xl w-full leading-relaxed italic tracking-wide text-justify [text-align-last:center]">
-          Ax Boston prioritizes understanding our clients&apos; goals, taking the time to grasp their ideal outcome for
+          Ax Palm Beach prioritizes understanding our clients&apos; goals, taking the time to grasp their ideal outcome for
           every critical position.
         </p>
       </div>

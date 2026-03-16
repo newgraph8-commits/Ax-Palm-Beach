@@ -6,21 +6,21 @@ import { ArrowUpRight } from "lucide-react"
 
 const features = [
   {
-    title: "THE AX BOSTON FRAMEWORK",
+    title: "THE AX PALM BEACH FRAMEWORK",
     description:
-      "In today's rapidly evolving digital landscape, where organizations are expected to make swift, data-driven decisions and convert complex information into sustainable strategic direction, Ax Boston has emerged as a leading force in the executive search industry.",
+      "In today's rapidly evolving digital landscape, where organizations are expected to make swift, data-driven decisions and convert complex information into sustainable strategic direction, Ax Palm Beach has emerged as a leading force in the executive search industry.",
     image: "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?q=80&w=2070&auto=format&fit=crop",
   },
   {
     title: "PERFORMANCE FOCUSED",
     description:
-      "Every Ax Boston solution is designed to achieve the strongest possible client outcome, ensuring leadership strength, strategic alignment, and cohesive team direction.",
+      "Every Ax Palm Beach solution is designed to achieve the strongest possible client outcome, ensuring leadership strength, strategic alignment, and cohesive team direction.",
     image: "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?q=80&w=2664&auto=format&fit=crop",
   },
   {
     title: "MARKET LEADERSHIP ADVANTAGE",
     description:
-      "To strengthen organizational performance and unlock long-term potential, many companies rely on the specialized insight and support that we provide. For the executive search outcomes that enable such progress, contact Ax Boston.",
+      "To strengthen organizational performance and unlock long-term potential, many companies rely on the specialized insight and support that we provide. For the executive search outcomes that enable such progress, contact Ax Palm Beach.",
     image: "https://images.unsplash.com/photo-1507679799987-c73779587ccf?q=80&w=2071&auto=format&fit=crop",
   },
 ]
