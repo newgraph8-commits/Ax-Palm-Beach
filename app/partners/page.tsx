@@ -79,8 +79,8 @@ export default function PartnersPage() {
               <p className="text-lg text-muted-foreground leading-relaxed">
                 To integrate Ax Palm Beach's 12 AC system into your Human Resources framework or to enroll in the Ax Palm Beach
                 system application, please contact an Ax Palm Beach representative at:{" "}
-                <a href="mailto:info@axpacific.net" className="text-primary hover:underline font-semibold">
-                  info@axboston.com
+                <a href="mailto:info@axpalmbeach.com" className="text-primary hover:underline font-semibold">
+                  info@axpalmbeach.com
                 </a>
               </p>
             </div>
