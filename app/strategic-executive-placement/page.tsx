@@ -34,7 +34,7 @@ export default function ExecutivePlacementServicesPage() {
             </h1>
 
             <p className="text-lg text-muted-foreground leading-relaxed mb-12">
-              With deep expertise and resources, Ax Boston consistently identifies premier talent for executive
+              With deep expertise and resources, Ax Palm Beach consistently identifies premier talent for executive
               appointments on corporate and nonprofit boards.
             </p>
 
@@ -78,7 +78,7 @@ export default function ExecutivePlacementServicesPage() {
                 {/* Content Text */}
                 <div className="prose prose-lg max-w-none">
                   <p className="text-lg text-muted-foreground leading-relaxed mb-6">
-                    Ax Boston's reputation for securing highly qualified board directors is built on a global track
+                    Ax Palm Beach's reputation for securing highly qualified board directors is built on a global track
                     record that few firms can rival. Our client portfolio spans public and private companies, nonprofit
                     organizations, family-owned enterprises, and private-equity-backed groups—creating extensive
                     opportunities for meaningful, strategic placements.
@@ -93,22 +93,22 @@ export default function ExecutivePlacementServicesPage() {
 
                   <p className="text-lg text-muted-foreground leading-relaxed mb-6">
                     Whether an organization requires its first board director or a high-potential leader prepared to
-                    assume broader responsibilities within a larger governance structure, Ax Boston provides a clear
+                    assume broader responsibilities within a larger governance structure, Ax Palm Beach provides a clear
                     pathway for establishing strong, future-ready leadership. This is achieved through a time-tested
                     framework designed to evolve in step with the personnel needs of emerging enterprises.
                   </p>
 
-                  <h2 className="text-2xl font-bold text-primary mt-12 mb-6">The Ax Boston Pledge</h2>
+                  <h2 className="text-2xl font-bold text-primary mt-12 mb-6">The Ax Palm Beach Pledge</h2>
 
                   <p className="text-lg text-muted-foreground leading-relaxed mb-6">
                     Our clients draw on decades of collective experience in board leadership, executive search, and
                     management consulting—expertise that consistently elevates their strategic position and operational
-                    impact. This depth of knowledge is strengthened by Ax Boston's forward-thinking board members, whose
+                    impact. This depth of knowledge is strengthened by Ax Palm Beach's forward-thinking board members, whose
                     guidance and resources enable our team to lead effectively across industries.
                   </p>
 
                   <p className="text-lg text-muted-foreground leading-relaxed">
-                    Ax Boston's continued emphasis on measurable results and strengthened market positioning remains
+                    Ax Palm Beach's continued emphasis on measurable results and strengthened market positioning remains
                     central to the value we provide. Although the marketplace continues to evolve, our mission does
                     not—to ensure every client is positioned to achieve their full potential in the most positive and
                     impactful manner.
