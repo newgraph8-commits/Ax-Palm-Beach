@@ -58,8 +58,8 @@ export default function TermsOfServicePage() {
                 <h2 className="text-2xl font-bold text-primary mb-4">Support</h2>
                 <p>
                   If you encounter any issues with our messaging system, please contact us directly at{" "}
-                  <a href="mailto:info@axpacific.net" className="text-[#FF2B2B] hover:underline">
-                    info@axboston.com
+                  <a href="mailto:info@axpalmbeach.com" className="text-[#FF2B2B] hover:underline">
+                    info@axpalmbeach.com
                   </a>
                   .
                 </p>
